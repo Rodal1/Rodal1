@@ -2,8 +2,6 @@
 <h3 align="center">A Software Engineering Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertrodal&label=Profile%20views&color=0e75b6&style=flat" alt="robertrodal" /> </p>
 
-🔭 I’m currently doing research on Malware Analysis and Machine Learning with the MOTIF dataset.
-
 🔬 I've worked with Bukkit/Spigot/PaperMC Server Software since 2014 and with Spigot plugins since 2020
 
 🌱 I’m currently learning Java, Python, and C++
